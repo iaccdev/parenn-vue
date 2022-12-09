@@ -1,5 +1,6 @@
-# online-store
+# Parenn-store
 
+# App deploy with node v 14.20
 ## Project setup
 ```
 npm install
